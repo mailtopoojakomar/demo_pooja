@@ -1,2 +1,2 @@
 # demo_pooja
-optional know
+lambda function working
